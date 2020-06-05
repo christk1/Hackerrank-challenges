@@ -1,6 +1,6 @@
 # Hackerrank-challenges
 
-Solutions to hackerrank challenges in c++.
+Solutions to hackerrank challenges in c++. (Testing: Copy and paste them in the hackerrank editor)
 
 **This repo provides solutions without using STL for basic algorithms (e.g. sort)**
 
